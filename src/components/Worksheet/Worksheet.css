@@ -1,0 +1,13 @@
+input,textarea {
+    width: 100%;
+    margin-bottom: 0.5rem;
+    resize: none;
+    font-family: "EB Garamond",serif;
+    font-size:0.85rem;
+}
+
+li,ol {
+    margin-left: 2rem;
+    margin-bottom: 0.1rem;
+    font-family: "EB Garamond",serif;
+}
